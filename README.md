@@ -1,2 +1,4 @@
 # Movie-Genre-Prediction
-Developed a Predictive Analysis model using Apache Spark to predict genre of the movie with high F1-score.
+Constructed an end to end Predictive Analytics Pipeline using Python spark and Logistic Regression algorithm to predict and classify
+movies based on genre. Implemented word2vec along with the machine learning algorithm and achieved high f-score of
+0.99. Represented in the Kaggle ’20.
